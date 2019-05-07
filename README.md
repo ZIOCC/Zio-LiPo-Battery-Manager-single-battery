@@ -1,4 +1,4 @@
-# Zio-LiPo-Battery-Manager-single-battery
+# Zio LiPo Battery Manager (Single battery)
 
 ![](lipo-battery-manager.png)
 
